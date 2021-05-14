@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: eb459b6adae2afd4398e2d03cea95222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5746764926269108267
+    second: Shark_0
+  - first:
+      213: 303420649233120723
+    second: Shark_1
+  - first:
+      213: -2667083108151795400
+    second: Shark_2
+  - first:
+      213: -1188171541994365872
+    second: Shark_3
+  - first:
+      213: -6443143152671075294
+    second: Shark_4
+  - first:
+      213: -9221222104238743887
+    second: Shark_5
+  - first:
+      213: 606708205016773565
+    second: Shark_6
+  - first:
+      213: -1166654819748465478
+    second: Shark_7
+  - first:
+      213: -6582753985955235636
+    second: Shark_8
+  - first:
+      213: 4446947673199342103
+    second: Shark_9
+  - first:
+      213: -113069949435566741
+    second: Shark_10
+  - first:
+      213: -5098738669257863861
+    second: Shark_11
+  - first:
+      213: -1804030686354823259
+    second: Shark_12
+  - first:
+      213: 3222940141236203219
+    second: Shark_13
+  - first:
+      213: 2138600498061705106
+    second: Shark_14
+  - first:
+      213: -6662369581173553113
+    second: Shark_15
+  - first:
+      213: 6043025654747134107
+    second: Shark_16
+  - first:
+      213: -5008230425292042306
+    second: Shark_17
+  - first:
+      213: -6431781282486835872
+    second: Shark_18
+  - first:
+      213: -379654684662285285
+    second: Shark_19
+  - first:
+      213: 4528084946618190395
+    second: Shark_20
+  - first:
+      213: 6459671773872883706
+    second: Shark_21
+  - first:
+      213: 3479585321056928498
+    second: Shark_22
+  - first:
+      213: 6353119767541085416
+    second: Shark_23
+  - first:
+      213: -3032974067550040441
+    second: Shark_24
+  - first:
+      213: 7606975541991273115
+    second: Shark_25
+  - first:
+      213: 6713550779496272019
+    second: Shark_26
+  - first:
+      213: -5484058412091976692
+    second: Shark_27
+  - first:
+      213: 5172081585558199101
+    second: Shark_28
+  - first:
+      213: 1666295108987014209
+    second: Shark_29
+  - first:
+      213: -1940879593428266934
+    second: Shark_30
+  - first:
+      213: -3560266731736630301
+    second: Shark_31
+  - first:
+      213: 2006733744122652077
+    second: Shark_32
+  - first:
+      213: 6494981350752326294
+    second: Shark_33
+  - first:
+      213: -1682812623811573636
+    second: Shark_34
+  - first:
+      213: -6605403408750524745
+    second: Shark_35
+  - first:
+      213: -7701713674477158333
+    second: Shark_36
+  - first:
+      213: 2146807369649240710
+    second: Shark_37
+  - first:
+      213: -8465654845060214280
+    second: Shark_38
+  - first:
+      213: 8270769494428498028
+    second: Shark_39
+  - first:
+      213: 4123546421258586842
+    second: Shark_40
+  - first:
+      213: -7498775089254200114
+    second: Shark_41
+  - first:
+      213: 2542800010197102348
+    second: Shark_42
+  - first:
+      213: -2168638475631046928
+    second: Shark_43
+  - first:
+      213: -8983998652808890989
+    second: Shark_44
+  - first:
+      213: -5705037919508052532
+    second: Shark_45
+  - first:
+      213: -1545670842864040745
+    second: Shark_46
+  - first:
+      213: 4955761429611200614
+    second: Shark_47
+  - first:
+      213: -553936628925086162
+    second: Shark_48
+  - first:
+      213: 1096907739062970692
+    second: Shark_49
+  - first:
+      213: -8942895628204334671
+    second: Shark_50
+  - first:
+      213: 5150470527009122386
+    second: Shark_51
+  - first:
+      213: 1100474736402432007
+    second: Shark_52
+  - first:
+      213: 2613460248385204791
+    second: Shark_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20b1f5b04c90cf40800000000000000
+      internalID: 5746764926269108267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 396
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddfe0f0977f53400800000000000000
+      internalID: 303420649233120723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 396
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ea204b0e9cfad0800000000000000
+      internalID: -2667083108151795400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c923b1744c28fe0800000000000000
+      internalID: -1188171541994365872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224dc0c907b5596a0800000000000000
+      internalID: -6443143152671075294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 216
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be9ed13a53a70080800000000000000
+      internalID: -9221222104238743887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3f652e5e57b6800800000000000000
+      internalID: 606708205016773565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 36
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab435656f953fcfe0800000000000000
+      internalID: -1166654819748465478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 36
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f95f602c55a4a0800000000000000
+      internalID: -6582753985955235636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
